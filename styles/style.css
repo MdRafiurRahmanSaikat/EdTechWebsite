@@ -4,14 +4,10 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-.navbarcolor {
-    background-color: white;
-    border-radius: 12px;
-}
-
 .Ed-txt-color-dark {
     color: #4A4A4A;
 }
+
 .Ed-txt-color-light {
     color: #F4F4F4;
 }
@@ -43,6 +39,7 @@ body {
 }
 
 .sliderbtn {
+    font-weight: bold;
     padding: 13px 33px;
     gap: 10px;
     width: 182px;
