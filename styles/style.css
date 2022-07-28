@@ -33,15 +33,20 @@ body {
 
 .slidertitel {
     font-weight: 600;
-    font-size: 65px;
+    font-size: 5vw;
     text-align: center;
     color: #FFFFFF;
+}
+.detailscolor {
+    font-weight: 400;
+    font-size: 1vw;
+    text-align: center;
+    color: #777777;
 }
 
 .sliderbtn {
     font-weight: bold;
     padding: 13px 33px;
-    gap: 10px;
     width: 182px;
     height: 56px;
     color: #FFFFFF;
@@ -52,14 +57,7 @@ body {
 
 .secound-txt-color {
     color: #1D1D1D;
-    font-size: 45px;
-}
-
-.detailscolor {
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 30px;
-    color: #777777;
+    font-size: 3vw;
 }
 
 .coursetitlecolor {
