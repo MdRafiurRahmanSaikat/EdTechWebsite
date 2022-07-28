@@ -2,6 +2,10 @@ body{
     @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
     font-family: 'Poppins', sans-serif;
 }
+.navbarcolor{
+    background-color:whitesmoke;
+    border-radius: 15px;
+}
 .Ed-txt-color {
     color: #4A4A4A;
 
