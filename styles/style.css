@@ -1,14 +1,25 @@
-body{
+body {
+    margin: 0;
     @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
     font-family: 'Poppins', sans-serif;
 }
-.navbarcolor{
-    background-color:white;
-    border-radius: 15px;
-}
-.Ed-txt-color {
-    color: #4A4A4A;
 
+.navbarcolor {
+    background-color: white;
+    border-radius: 12px;
+}
+
+.Ed-txt-color-dark {
+    color: #4A4A4A;
+}
+.Ed-txt-color-light {
+    color: #F4F4F4;
+}
+
+.EdtechBg {
+    background: #289BDE;
+    color: white;
+    border-radius: 5px;
 }
 
 .regbtn {
@@ -53,15 +64,27 @@ body{
     line-height: 30px;
     color: #777777;
 }
-.coursetitlecolor{
-font-weight: 600;
-font-size: 25px;
-line-height: 38px;
-color: #4A4A4A;
+
+.coursetitlecolor {
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 38px;
+    color: #4A4A4A;
 }
-.price{  
-font-weight: 600;
-font-size: 18px;
-line-height: 27px;
-color: #289BDE;
+
+.price {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    color: #289BDE;
+}
+
+
+.bg-footer {
+    background-color: #161616;
+    color: white;
+}
+
+footer a {
+    text-decoration: none;
 }
